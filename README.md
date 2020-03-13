@@ -4,7 +4,7 @@ The mobile version of the classic minesweeper game using Flutter. by [Leonardo L
 
 ## Initial version
 
-This project was developed instructed by [Leonardo Leitão](https://github.com/leonardomleitao. In this current repository, the initial version serves as a starting point for the developing of additional features;
+This project was developed instructed by [Leonardo Leitão](https://github.com/leonardomleitao). In this current repository, the initial version serves as a starting point for the developing of additional features;
 The original developer's repository is [here](https://github.com/cod3rcursos/campo-minado-flutter).
 
 ## Languages
